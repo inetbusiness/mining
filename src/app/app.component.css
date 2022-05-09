@@ -1,3 +1,7 @@
+body {
+  background: url('app/img/');
+}
+
 p {
   font-family: Lato;
 }
